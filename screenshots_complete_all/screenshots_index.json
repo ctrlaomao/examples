@@ -1,0 +1,401 @@
+{
+  "total": 44,
+  "screenshots": [
+    {
+      "index": 1,
+      "module": "系统登录",
+      "function": "登录页面",
+      "description": "用户登录界面",
+      "filename": "0001_系统登录_登录页面.png",
+      "url": "https://jhtest.bjstarfish.com/#/login?redirect=%2Fdashboard",
+      "title": "总控台"
+    },
+    {
+      "index": 2,
+      "module": "主页",
+      "function": "Dashboard",
+      "description": "系统主页",
+      "filename": "0002_主页_Dashboard.png",
+      "url": "https://jhtest.bjstarfish.com/#/dashboard",
+      "title": "数据总览 - 总控台"
+    },
+    {
+      "index": 3,
+      "module": "活动管理",
+      "function": "活动列表",
+      "description": "活动列表页面",
+      "filename": "0003_活动管理_活动列表.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/index",
+      "title": "活动列表 - 总控台"
+    },
+    {
+      "index": 4,
+      "module": "活动管理",
+      "function": "活动列表 - 新建活动",
+      "description": "新建活动操作页面",
+      "filename": "0004_活动管理_活动列表 - 新建活动.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/createAuction",
+      "title": "新增活动 - 总控台"
+    },
+    {
+      "index": 5,
+      "module": "活动管理",
+      "function": "活动列表 - 查看",
+      "description": "查看操作页面",
+      "filename": "0005_活动管理_活动列表 - 查看.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/activeOrder?number=A20250813007",
+      "title": "活动订单 - 总控台"
+    },
+    {
+      "index": 6,
+      "module": "活动管理",
+      "function": "活动列表 - 编辑",
+      "description": "编辑操作页面",
+      "filename": "0006_活动管理_活动列表 - 编辑.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/editAuction?id=A20240401015&copy=false",
+      "title": "编辑活动 -"
+    },
+    {
+      "index": 7,
+      "module": "活动管理",
+      "function": "活动列表 - 删除",
+      "description": "删除操作页面",
+      "filename": "0007_活动管理_活动列表 - 删除.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/index",
+      "title": "活动列表 - 总控台"
+    },
+    {
+      "index": 8,
+      "module": "活动管理",
+      "function": "活动订单",
+      "description": "活动订单页面",
+      "filename": "0008_活动管理_活动订单.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/activeOrder",
+      "title": "活动订单 - 总控台"
+    },
+    {
+      "index": 9,
+      "module": "场地管理",
+      "function": "场地列表",
+      "description": "场地列表页面",
+      "filename": "0009_场地管理_场地列表.png",
+      "url": "https://jhtest.bjstarfish.com/#/site/list",
+      "title": "场地列表 - 总控台"
+    },
+    {
+      "index": 10,
+      "module": "场地管理",
+      "function": "场地列表 - 新建场地",
+      "description": "新建场地操作页面",
+      "filename": "0010_场地管理_场地列表 - 新建场地.png",
+      "url": "https://jhtest.bjstarfish.com/#/site/create",
+      "title": "新建场地 - 总控台"
+    },
+    {
+      "index": 11,
+      "module": "场地管理",
+      "function": "场地列表 - 表格订单详情",
+      "description": "表格订单详情操作",
+      "filename": "0011_场地管理_场地列表 - 表格订单详情.png",
+      "url": "https://jhtest.bjstarfish.com/#/activity/activeOrder",
+      "title": "活动订单 - 总控台"
+    },
+    {
+      "index": 12,
+      "module": "场地管理",
+      "function": "场地预定看板",
+      "description": "场地预定看板页面",
+      "filename": "0012_场地管理_场地预定看板.png",
+      "url": "https://jhtest.bjstarfish.com/#/site/bookingBoard",
+      "title": "场地预定看板 - 总控台"
+    },
+    {
+      "index": 13,
+      "module": "场地管理",
+      "function": "场地订单",
+      "description": "场地订单页面",
+      "filename": "0013_场地管理_场地订单.png",
+      "url": "https://jhtest.bjstarfish.com/#/site/orders",
+      "title": "场地订单 - 总控台"
+    },
+    {
+      "index": 14,
+      "module": "场地管理",
+      "function": "场地订单 - 订单详情",
+      "description": "订单详情操作页面",
+      "filename": "0014_场地管理_场地订单 - 订单详情.png",
+      "url": "https://jhtest.bjstarfish.com/#/site/orderDetail/12345678?status=paid",
+      "title": "订单详情 - 总控台"
+    },
+    {
+      "index": 15,
+      "module": "套票列表",
+      "function": "套票列表",
+      "description": "套票列表页面",
+      "filename": "0015_套票列表_套票列表.png",
+      "url": "https://jhtest.bjstarfish.com/#/packageTicket/index",
+      "title": "套票列表 - 总控台"
+    },
+    {
+      "index": 16,
+      "module": "用户管理",
+      "function": "普通用户",
+      "description": "普通用户页面",
+      "filename": "0016_用户管理_普通用户.png",
+      "url": "https://jhtest.bjstarfish.com/#/user/index",
+      "title": "普通用户 - 总控台"
+    },
+    {
+      "index": 17,
+      "module": "用户管理",
+      "function": "普通用户 - 表格活动订单",
+      "description": "表格活动订单操作",
+      "filename": "0017_用户管理_普通用户 - 表格活动订单.png",
+      "url": "https://jhtest.bjstarfish.com/#/user/userOrder?userId=17",
+      "title": "用户订单 - 总控台"
+    },
+    {
+      "index": 18,
+      "module": "用户管理",
+      "function": "用户订单",
+      "description": "用户订单页面",
+      "filename": "0018_用户管理_用户订单.png",
+      "url": "https://jhtest.bjstarfish.com/#/user/userOrder",
+      "title": "用户订单 - 总控台"
+    },
+    {
+      "index": 19,
+      "module": "员工管理",
+      "function": "员工管理",
+      "description": "员工管理页面",
+      "filename": "0019_员工管理_员工管理.png",
+      "url": "https://jhtest.bjstarfish.com/#/staff/index",
+      "title": "员工管理 - 总控台"
+    },
+    {
+      "index": 20,
+      "module": "员工管理",
+      "function": "员工管理 - 添加",
+      "description": "添加操作页面",
+      "filename": "0020_员工管理_员工管理 - 添加.png",
+      "url": "https://jhtest.bjstarfish.com/#/staff/index",
+      "title": "员工管理 - 总控台"
+    },
+    {
+      "index": 21,
+      "module": "员工管理",
+      "function": "员工管理 - 编辑",
+      "description": "编辑操作页面",
+      "filename": "0021_员工管理_员工管理 - 编辑.png",
+      "url": "https://jhtest.bjstarfish.com/#/staff/index",
+      "title": "员工管理 - 总控台"
+    },
+    {
+      "index": 22,
+      "module": "员工管理",
+      "function": "员工管理 - 删除",
+      "description": "删除操作页面",
+      "filename": "0022_员工管理_员工管理 - 删除.png",
+      "url": "https://jhtest.bjstarfish.com/#/staff/index",
+      "title": "员工管理 - 总控台"
+    },
+    {
+      "index": 23,
+      "module": "财务管理",
+      "function": "商户结算审核",
+      "description": "商户结算审核页面",
+      "filename": "0023_财务管理_商户结算审核.png",
+      "url": "https://jhtest.bjstarfish.com/#/finance/merchantSettlement",
+      "title": "商户结算审核 - 总控台"
+    },
+    {
+      "index": 24,
+      "module": "财务管理",
+      "function": "商户结算审核 - 审核",
+      "description": "审核操作页面",
+      "filename": "0024_财务管理_商户结算审核 - 审核.png",
+      "url": "https://jhtest.bjstarfish.com/#/finance/merchantSettlement",
+      "title": "商户结算审核 - 总控台"
+    },
+    {
+      "index": 25,
+      "module": "财务管理",
+      "function": "商户结算财务报表",
+      "description": "商户结算财务报表页面",
+      "filename": "0025_财务管理_商户结算财务报表.png",
+      "url": "https://jhtest.bjstarfish.com/#/finance/financialReport",
+      "title": "商户结算财务报表 - 总控台"
+    },
+    {
+      "index": 26,
+      "module": "数据分析",
+      "function": "销售统计",
+      "description": "销售统计页面",
+      "filename": "0026_数据分析_销售统计.png",
+      "url": "https://jhtest.bjstarfish.com/#/dataAnalysis/salesStatistics",
+      "title": "销售统计 - 总控台"
+    },
+    {
+      "index": 27,
+      "module": "Banner管理",
+      "function": "Banner管理",
+      "description": "Banner管理页面",
+      "filename": "0027_Banner管理_Banner管理.png",
+      "url": "https://jhtest.bjstarfish.com/#/system/bannerMsg",
+      "title": "Banner管理 - 总控台"
+    },
+    {
+      "index": 28,
+      "module": "Banner管理",
+      "function": "Banner管理 - 修改",
+      "description": "修改操作页面",
+      "filename": "0028_Banner管理_Banner管理 - 修改.png",
+      "url": "https://jhtest.bjstarfish.com/#/system/bannerMsg",
+      "title": "Banner管理 - 总控台"
+    },
+    {
+      "index": 29,
+      "module": "优惠券列表",
+      "function": "优惠券列表",
+      "description": "优惠券列表页面",
+      "filename": "0029_优惠券列表_优惠券列表.png",
+      "url": "https://jhtest.bjstarfish.com/#/coupon/index",
+      "title": "优惠券列表 - 总控台"
+    },
+    {
+      "index": 30,
+      "module": "优惠券列表",
+      "function": "优惠券列表 - 新建优惠券",
+      "description": "新建优惠券操作页面",
+      "filename": "0030_优惠券列表_优惠券列表 - 新建优惠券.png",
+      "url": "https://jhtest.bjstarfish.com/#/coupon/createCoupon",
+      "title": "新增优惠券 - 总控台"
+    },
+    {
+      "index": 31,
+      "module": "优惠券列表",
+      "function": "优惠券列表 - 下架",
+      "description": "下架操作页面",
+      "filename": "0031_优惠券列表_优惠券列表 - 下架.png",
+      "url": "https://jhtest.bjstarfish.com/#/coupon/index",
+      "title": "优惠券列表 - 总控台"
+    },
+    {
+      "index": 32,
+      "module": "积分管理",
+      "function": "规则设置",
+      "description": "规则设置页面",
+      "filename": "0032_积分管理_规则设置.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralRule",
+      "title": "规则设置 - 总控台"
+    },
+    {
+      "index": 33,
+      "module": "积分管理",
+      "function": "规则设置 - 新增",
+      "description": "新增操作页面",
+      "filename": "0033_积分管理_规则设置 - 新增.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralRule",
+      "title": "规则设置 - 总控台"
+    },
+    {
+      "index": 34,
+      "module": "积分管理",
+      "function": "积分商城",
+      "description": "积分商城页面",
+      "filename": "0034_积分管理_积分商城.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/index",
+      "title": "积分商城 - 总控台"
+    },
+    {
+      "index": 35,
+      "module": "积分管理",
+      "function": "积分商城 - 新建商品",
+      "description": "新建商品操作页面",
+      "filename": "0035_积分管理_积分商城 - 新建商品.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/createIntegral",
+      "title": "新建商品 - 总控台"
+    },
+    {
+      "index": 36,
+      "module": "积分管理",
+      "function": "积分商城 - 修改",
+      "description": "修改操作页面",
+      "filename": "0036_积分管理_积分商城 - 修改.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/editintegral?id=SMP20240906034&copy=false",
+      "title": "拷贝商品 - 36"
+    },
+    {
+      "index": 37,
+      "module": "积分管理",
+      "function": "积分订单",
+      "description": "积分订单页面",
+      "filename": "0037_积分管理_积分订单.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralOrder",
+      "title": "积分订单 - 总控台"
+    },
+    {
+      "index": 38,
+      "module": "积分管理",
+      "function": "积分用户",
+      "description": "积分用户页面",
+      "filename": "0038_积分管理_积分用户.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralUser",
+      "title": "积分用户 - 总控台"
+    },
+    {
+      "index": 39,
+      "module": "积分管理",
+      "function": "积分用户 - 表格调整积分",
+      "description": "表格调整积分操作",
+      "filename": "0039_积分管理_积分用户 - 表格调整积分.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralUser",
+      "title": "积分用户 - 总控台"
+    },
+    {
+      "index": 40,
+      "module": "积分管理",
+      "function": "积分用户 - 表格积分明细",
+      "description": "表格积分明细操作",
+      "filename": "0040_积分管理_积分用户 - 表格积分明细.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralUser",
+      "title": "积分用户 - 总控台"
+    },
+    {
+      "index": 41,
+      "module": "积分管理",
+      "function": "积分用户 - 表格兑换记录",
+      "description": "表格兑换记录操作",
+      "filename": "0041_积分管理_积分用户 - 表格兑换记录.png",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralUser",
+      "title": "积分用户 - 总控台"
+    },
+    {
+      "index": 42,
+      "module": "小游戏列表",
+      "function": "小游戏列表",
+      "description": "小游戏列表页面",
+      "filename": "0042_小游戏列表_小游戏列表.png",
+      "url": "https://jhtest.bjstarfish.com/#/miniGame/index",
+      "title": "小游戏列表 - 总控台"
+    },
+    {
+      "index": 43,
+      "module": "小游戏列表",
+      "function": "小游戏列表 - 新建小游戏",
+      "description": "新建小游戏操作页面",
+      "filename": "0043_小游戏列表_小游戏列表 - 新建小游戏.png",
+      "url": "https://jhtest.bjstarfish.com/#/miniGame/create",
+      "title": "新建小游戏 - 总控台"
+    },
+    {
+      "index": 44,
+      "module": "系统日志",
+      "function": "系统日志",
+      "description": "系统日志页面",
+      "filename": "0044_系统日志_系统日志.png",
+      "url": "https://jhtest.bjstarfish.com/#/systemlog/index",
+      "title": "系统日志 - 总控台"
+    }
+  ]
+}
