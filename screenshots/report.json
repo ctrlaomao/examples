@@ -1,0 +1,55 @@
+{
+  "base_url": "https://jhtest.bjstarfish.com/",
+  "total_screenshots": 7,
+  "screenshots": [
+    {
+      "index": 1,
+      "name": "主页_Dashboard",
+      "url": "https://jhtest.bjstarfish.com/#/dashboard",
+      "title": "数据总览 - 总控台",
+      "filename": "001_主页_Dashboard_6889313a.png"
+    },
+    {
+      "index": 2,
+      "name": "套票列表",
+      "url": "https://jhtest.bjstarfish.com/#/packageTicket/index",
+      "title": "套票列表 - 总控台",
+      "filename": "002_套票列表_5a069da4.png"
+    },
+    {
+      "index": 3,
+      "name": "员工管理",
+      "url": "https://jhtest.bjstarfish.com/#/staff/index",
+      "title": "员工管理 - 总控台",
+      "filename": "003_员工管理_20e18535.png"
+    },
+    {
+      "index": 4,
+      "name": "Banner管理",
+      "url": "https://jhtest.bjstarfish.com/#/system/bannerMsg",
+      "title": "Banner管理 - 总控台",
+      "filename": "004_Banner管理_7ff409e4.png"
+    },
+    {
+      "index": 5,
+      "name": "优惠券列表",
+      "url": "https://jhtest.bjstarfish.com/#/coupon/index",
+      "title": "优惠券列表 - 总控台",
+      "filename": "005_优惠券列表_90da3939.png"
+    },
+    {
+      "index": 6,
+      "name": "小游戏列表",
+      "url": "https://jhtest.bjstarfish.com/#/miniGame/index",
+      "title": "小游戏列表 - 总控台",
+      "filename": "006_小游戏列表_a8f1dfd2.png"
+    },
+    {
+      "index": 7,
+      "name": "系统日志",
+      "url": "https://jhtest.bjstarfish.com/#/systemlog/index",
+      "title": "系统日志 - 总控台",
+      "filename": "007_系统日志_07e72336.png"
+    }
+  ]
+}
