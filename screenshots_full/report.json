@@ -1,0 +1,230 @@
+{
+  "base_url": "https://jhtest.bjstarfish.com/",
+  "total_screenshots": 32,
+  "screenshots": [
+    {
+      "index": 1,
+      "name": "主页_Dashboard",
+      "url": "https://jhtest.bjstarfish.com/#/dashboard",
+      "title": "数据总览 - 总控台",
+      "filename": "001_主页_Dashboard_5f20c835.png"
+    },
+    {
+      "index": 2,
+      "name": "活动管理 - 活动列表",
+      "url": "https://jhtest.bjstarfish.com/#/activity/index",
+      "title": "活动列表 - 总控台",
+      "filename": "002_活动管理_-_活动列表_d2319953.png"
+    },
+    {
+      "index": 3,
+      "name": "活动管理 - 活动订单",
+      "url": "https://jhtest.bjstarfish.com/#/activity/activeOrder",
+      "title": "活动订单 - 总控台",
+      "filename": "003_活动管理_-_活动订单_b3d467c5.png"
+    },
+    {
+      "index": 4,
+      "name": "活动管理 - 活动订单 - 搜索",
+      "url": "https://jhtest.bjstarfish.com/#/activity/activeOrder",
+      "title": "活动订单 - 总控台",
+      "filename": "004_活动管理_-_活动订单_-_搜索_5286a060.png"
+    },
+    {
+      "index": 5,
+      "name": "场地管理 - 场地列表",
+      "url": "https://jhtest.bjstarfish.com/#/site/list",
+      "title": "场地列表 - 总控台",
+      "filename": "005_场地管理_-_场地列表_4db0f047.png"
+    },
+    {
+      "index": 6,
+      "name": "场地管理 - 场地预定看板",
+      "url": "https://jhtest.bjstarfish.com/#/site/bookingBoard",
+      "title": "场地预定看板 - 总控台",
+      "filename": "006_场地管理_-_场地预定看板_c2adcfd5.png"
+    },
+    {
+      "index": 7,
+      "name": "场地管理 - 场地订单",
+      "url": "https://jhtest.bjstarfish.com/#/site/orders",
+      "title": "场地订单 - 总控台",
+      "filename": "007_场地管理_-_场地订单_6cfebe4f.png"
+    },
+    {
+      "index": 8,
+      "name": "场地管理 - 场地订单 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/site/orders",
+      "title": "场地订单 - 总控台",
+      "filename": "008_场地管理_-_场地订单_-_查询_f3aebad3.png"
+    },
+    {
+      "index": 9,
+      "name": "套票列表",
+      "url": "https://jhtest.bjstarfish.com/#/packageTicket/index",
+      "title": "套票列表 - 总控台",
+      "filename": "009_套票列表_f8f9f12a.png"
+    },
+    {
+      "index": 10,
+      "name": "用户管理 - 普通用户",
+      "url": "https://jhtest.bjstarfish.com/#/user/index",
+      "title": "普通用户 - 总控台",
+      "filename": "010_用户管理_-_普通用户_535d868c.png"
+    },
+    {
+      "index": 11,
+      "name": "用户管理 - 用户订单",
+      "url": "https://jhtest.bjstarfish.com/#/user/userOrder",
+      "title": "用户订单 - 总控台",
+      "filename": "011_用户管理_-_用户订单_7871c4af.png"
+    },
+    {
+      "index": 12,
+      "name": "用户管理 - 用户订单 - 搜索",
+      "url": "https://jhtest.bjstarfish.com/#/user/userOrder",
+      "title": "用户订单 - 总控台",
+      "filename": "012_用户管理_-_用户订单_-_搜索_3bc66a6c.png"
+    },
+    {
+      "index": 13,
+      "name": "员工管理",
+      "url": "https://jhtest.bjstarfish.com/#/staff/index",
+      "title": "员工管理 - 总控台",
+      "filename": "013_员工管理_2411affb.png"
+    },
+    {
+      "index": 14,
+      "name": "财务管理 - 商户结算审核",
+      "url": "https://jhtest.bjstarfish.com/#/finance/merchantSettlement",
+      "title": "商户结算审核 - 总控台",
+      "filename": "014_财务管理_-_商户结算审核_bd1c637b.png"
+    },
+    {
+      "index": 15,
+      "name": "财务管理 - 商户结算审核 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/finance/merchantSettlement",
+      "title": "商户结算审核 - 总控台",
+      "filename": "015_财务管理_-_商户结算审核_-_查询_91fdc342.png"
+    },
+    {
+      "index": 16,
+      "name": "财务管理 - 商户结算财务报表",
+      "url": "https://jhtest.bjstarfish.com/#/finance/financialReport",
+      "title": "商户结算财务报表 - 总控台",
+      "filename": "016_财务管理_-_商户结算财务报表_bb658424.png"
+    },
+    {
+      "index": 17,
+      "name": "财务管理 - 商户结算财务报表 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/finance/financialReport",
+      "title": "商户结算财务报表 - 总控台",
+      "filename": "017_财务管理_-_商户结算财务报表_-_查询_93e10e14.png"
+    },
+    {
+      "index": 18,
+      "name": "数据分析 - 销售统计",
+      "url": "https://jhtest.bjstarfish.com/#/dataAnalysis/salesStatistics",
+      "title": "销售统计 - 总控台",
+      "filename": "018_数据分析_-_销售统计_a0ec5167.png"
+    },
+    {
+      "index": 19,
+      "name": "Banner管理",
+      "url": "https://jhtest.bjstarfish.com/#/system/bannerMsg",
+      "title": "Banner管理 - 总控台",
+      "filename": "019_Banner管理_2f4f673b.png"
+    },
+    {
+      "index": 20,
+      "name": "Banner管理 - 修改",
+      "url": "https://jhtest.bjstarfish.com/#/system/bannerMsg",
+      "title": "Banner管理 - 总控台",
+      "filename": "020_Banner管理_-_修改_838f09c1.png"
+    },
+    {
+      "index": 21,
+      "name": "优惠券列表",
+      "url": "https://jhtest.bjstarfish.com/#/coupon/index",
+      "title": "优惠券列表 - 总控台",
+      "filename": "021_优惠券列表_4987c093.png"
+    },
+    {
+      "index": 22,
+      "name": "优惠券列表 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/coupon/index",
+      "title": "优惠券列表 - 总控台",
+      "filename": "022_优惠券列表_-_查询_0312bc2f.png"
+    },
+    {
+      "index": 23,
+      "name": "积分管理 - 规则设置",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralRule",
+      "title": "规则设置 - 总控台",
+      "filename": "023_积分管理_-_规则设置_6411048c.png"
+    },
+    {
+      "index": 24,
+      "name": "积分管理 - 规则设置 - 新增",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralRule",
+      "title": "规则设置 - 总控台",
+      "filename": "024_积分管理_-_规则设置_-_新增_d4f506bc.png"
+    },
+    {
+      "index": 25,
+      "name": "积分管理 - 积分商城",
+      "url": "https://jhtest.bjstarfish.com/#/integral/index",
+      "title": "积分商城 - 总控台",
+      "filename": "025_积分管理_-_积分商城_1305bb92.png"
+    },
+    {
+      "index": 26,
+      "name": "积分管理 - 积分商城 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/integral/index",
+      "title": "积分商城 - 总控台",
+      "filename": "026_积分管理_-_积分商城_-_查询_8efde58e.png"
+    },
+    {
+      "index": 27,
+      "name": "积分管理 - 积分订单",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralOrder",
+      "title": "积分订单 - 总控台",
+      "filename": "027_积分管理_-_积分订单_09d5301d.png"
+    },
+    {
+      "index": 28,
+      "name": "积分管理 - 积分订单 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralOrder",
+      "title": "积分订单 - 总控台",
+      "filename": "028_积分管理_-_积分订单_-_查询_3d22b568.png"
+    },
+    {
+      "index": 29,
+      "name": "积分管理 - 积分用户",
+      "url": "https://jhtest.bjstarfish.com/#/integral/integralUser",
+      "title": "积分用户 - 总控台",
+      "filename": "029_积分管理_-_积分用户_eae6ec2b.png"
+    },
+    {
+      "index": 30,
+      "name": "小游戏列表",
+      "url": "https://jhtest.bjstarfish.com/#/miniGame/index",
+      "title": "小游戏列表 - 总控台",
+      "filename": "030_小游戏列表_693cdafd.png"
+    },
+    {
+      "index": 31,
+      "name": "系统日志",
+      "url": "https://jhtest.bjstarfish.com/#/systemlog/index",
+      "title": "系统日志 - 总控台",
+      "filename": "031_系统日志_edb030b7.png"
+    },
+    {
+      "index": 32,
+      "name": "系统日志 - 查询",
+      "url": "https://jhtest.bjstarfish.com/#/systemlog/index",
+      "title": "系统日志 - 总控台",
+      "filename": "032_系统日志_-_查询_3d28ab88.png"
+    }
+  ]
+}

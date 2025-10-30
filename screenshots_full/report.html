@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>完整系统截图报告</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Microsoft YaHei', 'Segoe UI', Tahoma, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #333;
+            font-size: 36px;
+            margin-bottom: 30px;
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+        }
+        .stat-number {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .stat-label {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        .screenshot-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        .screenshot-card {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .screenshot-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.2);
+        }
+        .screenshot-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+        }
+        .screenshot-number {
+            font-size: 14px;
+            opacity: 0.8;
+            margin-bottom: 5px;
+        }
+        .screenshot-title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .screenshot-img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .screenshot-img:hover {
+            transform: scale(1.05);
+        }
+        .screenshot-meta {
+            padding: 15px;
+            background: #f8f9fa;
+            font-size: 12px;
+            color: #666;
+        }
+        .info-banner {
+            background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 完整系统截图报告</h1>
+        
+        <div class="info-banner">
+            <p><strong>📍 网站:</strong> https://jhtest.bjstarfish.com/</p>
+            <p><strong>⏰ 生成时间:</strong> 2025-10-30 03:43:16</p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">32</div>
+                <div class="stat-label">总截图数</div>
+            </div>
+        </div>
+        
+        <div class="screenshot-grid">
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#001</div>
+                    <div class="screenshot-title">主页_Dashboard</div>
+                </div>
+                <img src="001_主页_Dashboard_5f20c835.png" alt="主页_Dashboard" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 数据总览 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/dashboard...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#002</div>
+                    <div class="screenshot-title">活动管理 - 活动列表</div>
+                </div>
+                <img src="002_活动管理_-_活动列表_d2319953.png" alt="活动管理 - 活动列表" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 活动列表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/activity/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#003</div>
+                    <div class="screenshot-title">活动管理 - 活动订单</div>
+                </div>
+                <img src="003_活动管理_-_活动订单_b3d467c5.png" alt="活动管理 - 活动订单" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 活动订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/activity/activeOrder...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#004</div>
+                    <div class="screenshot-title">活动管理 - 活动订单 - 搜索</div>
+                </div>
+                <img src="004_活动管理_-_活动订单_-_搜索_5286a060.png" alt="活动管理 - 活动订单 - 搜索" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 活动订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/activity/activeOrder...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#005</div>
+                    <div class="screenshot-title">场地管理 - 场地列表</div>
+                </div>
+                <img src="005_场地管理_-_场地列表_4db0f047.png" alt="场地管理 - 场地列表" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 场地列表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/site/list...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#006</div>
+                    <div class="screenshot-title">场地管理 - 场地预定看板</div>
+                </div>
+                <img src="006_场地管理_-_场地预定看板_c2adcfd5.png" alt="场地管理 - 场地预定看板" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 场地预定看板 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/site/bookingBoard...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#007</div>
+                    <div class="screenshot-title">场地管理 - 场地订单</div>
+                </div>
+                <img src="007_场地管理_-_场地订单_6cfebe4f.png" alt="场地管理 - 场地订单" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 场地订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/site/orders...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#008</div>
+                    <div class="screenshot-title">场地管理 - 场地订单 - 查询</div>
+                </div>
+                <img src="008_场地管理_-_场地订单_-_查询_f3aebad3.png" alt="场地管理 - 场地订单 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 场地订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/site/orders...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#009</div>
+                    <div class="screenshot-title">套票列表</div>
+                </div>
+                <img src="009_套票列表_f8f9f12a.png" alt="套票列表" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 套票列表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/packageTicket/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#010</div>
+                    <div class="screenshot-title">用户管理 - 普通用户</div>
+                </div>
+                <img src="010_用户管理_-_普通用户_535d868c.png" alt="用户管理 - 普通用户" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 普通用户 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/user/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#011</div>
+                    <div class="screenshot-title">用户管理 - 用户订单</div>
+                </div>
+                <img src="011_用户管理_-_用户订单_7871c4af.png" alt="用户管理 - 用户订单" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 用户订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/user/userOrder...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#012</div>
+                    <div class="screenshot-title">用户管理 - 用户订单 - 搜索</div>
+                </div>
+                <img src="012_用户管理_-_用户订单_-_搜索_3bc66a6c.png" alt="用户管理 - 用户订单 - 搜索" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 用户订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/user/userOrder...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#013</div>
+                    <div class="screenshot-title">员工管理</div>
+                </div>
+                <img src="013_员工管理_2411affb.png" alt="员工管理" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 员工管理 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/staff/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#014</div>
+                    <div class="screenshot-title">财务管理 - 商户结算审核</div>
+                </div>
+                <img src="014_财务管理_-_商户结算审核_bd1c637b.png" alt="财务管理 - 商户结算审核" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 商户结算审核 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/finance/merchantSettlement...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#015</div>
+                    <div class="screenshot-title">财务管理 - 商户结算审核 - 查询</div>
+                </div>
+                <img src="015_财务管理_-_商户结算审核_-_查询_91fdc342.png" alt="财务管理 - 商户结算审核 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 商户结算审核 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/finance/merchantSettlement...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#016</div>
+                    <div class="screenshot-title">财务管理 - 商户结算财务报表</div>
+                </div>
+                <img src="016_财务管理_-_商户结算财务报表_bb658424.png" alt="财务管理 - 商户结算财务报表" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 商户结算财务报表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/finance/financialReport...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#017</div>
+                    <div class="screenshot-title">财务管理 - 商户结算财务报表 - 查询</div>
+                </div>
+                <img src="017_财务管理_-_商户结算财务报表_-_查询_93e10e14.png" alt="财务管理 - 商户结算财务报表 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 商户结算财务报表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/finance/financialReport...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#018</div>
+                    <div class="screenshot-title">数据分析 - 销售统计</div>
+                </div>
+                <img src="018_数据分析_-_销售统计_a0ec5167.png" alt="数据分析 - 销售统计" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 销售统计 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/dataAnalysis/salesStatistics...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#019</div>
+                    <div class="screenshot-title">Banner管理</div>
+                </div>
+                <img src="019_Banner管理_2f4f673b.png" alt="Banner管理" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> Banner管理 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/system/bannerMsg...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#020</div>
+                    <div class="screenshot-title">Banner管理 - 修改</div>
+                </div>
+                <img src="020_Banner管理_-_修改_838f09c1.png" alt="Banner管理 - 修改" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> Banner管理 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/system/bannerMsg...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#021</div>
+                    <div class="screenshot-title">优惠券列表</div>
+                </div>
+                <img src="021_优惠券列表_4987c093.png" alt="优惠券列表" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 优惠券列表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/coupon/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#022</div>
+                    <div class="screenshot-title">优惠券列表 - 查询</div>
+                </div>
+                <img src="022_优惠券列表_-_查询_0312bc2f.png" alt="优惠券列表 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 优惠券列表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/coupon/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#023</div>
+                    <div class="screenshot-title">积分管理 - 规则设置</div>
+                </div>
+                <img src="023_积分管理_-_规则设置_6411048c.png" alt="积分管理 - 规则设置" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 规则设置 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/integralRule...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#024</div>
+                    <div class="screenshot-title">积分管理 - 规则设置 - 新增</div>
+                </div>
+                <img src="024_积分管理_-_规则设置_-_新增_d4f506bc.png" alt="积分管理 - 规则设置 - 新增" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 规则设置 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/integralRule...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#025</div>
+                    <div class="screenshot-title">积分管理 - 积分商城</div>
+                </div>
+                <img src="025_积分管理_-_积分商城_1305bb92.png" alt="积分管理 - 积分商城" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 积分商城 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#026</div>
+                    <div class="screenshot-title">积分管理 - 积分商城 - 查询</div>
+                </div>
+                <img src="026_积分管理_-_积分商城_-_查询_8efde58e.png" alt="积分管理 - 积分商城 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 积分商城 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#027</div>
+                    <div class="screenshot-title">积分管理 - 积分订单</div>
+                </div>
+                <img src="027_积分管理_-_积分订单_09d5301d.png" alt="积分管理 - 积分订单" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 积分订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/integralOrder...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#028</div>
+                    <div class="screenshot-title">积分管理 - 积分订单 - 查询</div>
+                </div>
+                <img src="028_积分管理_-_积分订单_-_查询_3d22b568.png" alt="积分管理 - 积分订单 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 积分订单 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/integralOrder...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#029</div>
+                    <div class="screenshot-title">积分管理 - 积分用户</div>
+                </div>
+                <img src="029_积分管理_-_积分用户_eae6ec2b.png" alt="积分管理 - 积分用户" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 积分用户 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/integral/integralUser...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#030</div>
+                    <div class="screenshot-title">小游戏列表</div>
+                </div>
+                <img src="030_小游戏列表_693cdafd.png" alt="小游戏列表" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 小游戏列表 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/miniGame/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#031</div>
+                    <div class="screenshot-title">系统日志</div>
+                </div>
+                <img src="031_系统日志_edb030b7.png" alt="系统日志" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 系统日志 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/systemlog/index...</div>
+                </div>
+            </div>
+
+            <div class="screenshot-card">
+                <div class="screenshot-header">
+                    <div class="screenshot-number">#032</div>
+                    <div class="screenshot-title">系统日志 - 查询</div>
+                </div>
+                <img src="032_系统日志_-_查询_3d28ab88.png" alt="系统日志 - 查询" 
+                     class="screenshot-img" onclick="window.open(this.src)" 
+                     title="点击查看大图">
+                <div class="screenshot-meta">
+                    <div><strong>标题:</strong> 系统日志 - 总控台</div>
+                    <div><strong>URL:</strong> https://jhtest.bjstarfish.com/#/systemlog/index...</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
