@@ -1,0 +1,113 @@
+{
+  "total": 12,
+  "screenshots": [
+    {
+      "index": 1,
+      "module": "系统登录",
+      "function": "登录页面",
+      "description": "票务系统登录界面",
+      "filename": "0001_系统登录_登录页面.png",
+      "url": "https://xstest.axioxio.com/Account/Login?ReturnUrl=%2F",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 2,
+      "module": "系统主页",
+      "function": "Dashboard",
+      "description": "登录后主页",
+      "filename": "0002_系统主页_Dashboard.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 3,
+      "module": "Home",
+      "function": "Home页面",
+      "description": "Home功能模块",
+      "filename": "0003_Home_Home页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 4,
+      "module": "Menu:Ticket",
+      "function": "Menu:Ticket页面",
+      "description": "Menu:Ticket功能模块",
+      "filename": "0004_Menu_Ticket_Menu_Ticket页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 5,
+      "module": "Menu:Booking",
+      "function": "Menu:Booking页面",
+      "description": "Menu:Booking功能模块",
+      "filename": "0005_Menu_Booking_Menu_Booking页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 6,
+      "module": "Menu:LeasesMian",
+      "function": "Menu:LeasesMian页面",
+      "description": "Menu:LeasesMian功能模块",
+      "filename": "0006_Menu_LeasesMian_Menu_LeasesMian页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 7,
+      "module": "Distributors",
+      "function": "Distributors页面",
+      "description": "Distributors功能模块",
+      "filename": "0007_Distributors_Distributors页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 8,
+      "module": "Menu:MiniprogramSetting",
+      "function": "Menu:MiniprogramSetting页面",
+      "description": "Menu:MiniprogramSetting功能模块",
+      "filename": "0008_Menu_MiniprogramSetting_Menu_MiniprogramSetting页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 9,
+      "module": "Menu:ReceiversInit",
+      "function": "Menu:ReceiversInit页面",
+      "description": "Menu:ReceiversInit功能模块",
+      "filename": "0009_Menu_ReceiversInit_Menu_ReceiversInit页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 10,
+      "module": "Menu:Reports",
+      "function": "Menu:Reports页面",
+      "description": "Menu:Reports功能模块",
+      "filename": "0010_Menu_Reports_Menu_Reports页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 11,
+      "module": "Administration",
+      "function": "Administration页面",
+      "description": "Administration功能模块",
+      "filename": "0011_Administration_Administration页面.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 12,
+      "module": "13811458301",
+      "function": "13811458301页面",
+      "description": "13811458301功能模块",
+      "filename": "0012_13811458301_13811458301页面.png",
+      "url": "https://xstest.axioxio.com/#",
+      "title": "亿思维智慧门店"
+    }
+  ]
+}
