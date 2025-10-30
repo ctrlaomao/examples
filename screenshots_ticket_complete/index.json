@@ -1,0 +1,275 @@
+{
+  "total": 30,
+  "screenshots": [
+    {
+      "index": 1,
+      "module": "系统登录",
+      "function": "登录页面",
+      "description": "票务系统登录界面",
+      "filename": "0001_系统登录_登录页面.png",
+      "url": "https://xstest.axioxio.com/Account/Login?ReturnUrl=%2F",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 2,
+      "module": "系统主页",
+      "function": "Dashboard",
+      "description": "登录后主页",
+      "filename": "0002_系统主页_Dashboard.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 3,
+      "module": "Home",
+      "function": "Menu:TicketCheckOut",
+      "description": "Home - Menu:TicketCheckOut",
+      "filename": "0003_Home_Menu_TicketCheckOut.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 4,
+      "module": "Home",
+      "function": "Menu:CheckOutTicket",
+      "description": "Home - Menu:CheckOutTicket",
+      "filename": "0004_Home_Menu_CheckOutTicket.png",
+      "url": "https://xstest.axioxio.com/OrderModule/CheckOut",
+      "title": "票务-工作台-收银-亿思维智慧门店"
+    },
+    {
+      "index": 5,
+      "module": "Home",
+      "function": "Menu:CheckOutRfid",
+      "description": "Home - Menu:CheckOutRfid",
+      "filename": "0005_Home_Menu_CheckOutRfid.png",
+      "url": "https://xstest.axioxio.com/OrderModule/CheckOut/BindCard",
+      "title": "票务-工作台-发卡-亿思维智慧门店"
+    },
+    {
+      "index": 6,
+      "module": "Home",
+      "function": "Menu:CheckOutRFIDReturn",
+      "description": "Home - Menu:CheckOutRFIDReturn",
+      "filename": "0006_Home_Menu_CheckOutRFIDReturn.png",
+      "url": "https://xstest.axioxio.com/OrderModule/CheckOut/Return",
+      "title": "票务-工作台-还卡-亿思维智慧门店"
+    },
+    {
+      "index": 7,
+      "module": "Home",
+      "function": "Menu:Orders",
+      "description": "Home - Menu:Orders",
+      "filename": "0007_Home_Menu_Orders.png",
+      "url": "https://xstest.axioxio.com/OrderModule/Orders",
+      "title": "票务-订单-亿思维智慧门店"
+    },
+    {
+      "index": 8,
+      "module": "Home",
+      "function": "Menu:OrderTickets",
+      "description": "Home - Menu:OrderTickets",
+      "filename": "0008_Home_Menu_OrderTickets.png",
+      "url": "https://xstest.axioxio.com/OrderModule/OrderTickets",
+      "title": "票务-票务管理-亿思维智慧门店"
+    },
+    {
+      "index": 9,
+      "module": "Home",
+      "function": "Menu:ETicketList",
+      "description": "Home - Menu:ETicketList",
+      "filename": "0009_Home_Menu_ETicketList.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETicketItems",
+      "title": "票务-电子/纸制票-电子券列表-亿思维智慧门店"
+    },
+    {
+      "index": 10,
+      "module": "Home",
+      "function": "Menu:ETicketsInit",
+      "description": "Home - Menu:ETicketsInit",
+      "filename": "0010_Home_Menu_ETicketsInit.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETickets",
+      "title": "票务-电子/纸制票-初始化-亿思维智慧门店"
+    },
+    {
+      "index": 11,
+      "module": "Home",
+      "function": "Menu:ETicketsInit - New E Ticket",
+      "description": "New E Ticket功能",
+      "filename": "0011_Home_Menu_ETicketsInit - New E Ticket.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETickets",
+      "title": "票务-电子/纸制票-初始化-亿思维智慧门店"
+    },
+    {
+      "index": 12,
+      "module": "Home",
+      "function": "E Ticket Templates",
+      "description": "Home - E Ticket Templates",
+      "filename": "0012_Home_E Ticket Templates.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETicketTemplates",
+      "title": "票务-电子/纸制票-纸制票模板-亿思维智慧门店"
+    },
+    {
+      "index": 13,
+      "module": "Home",
+      "function": "E Ticket Templates - New E Ticket Template",
+      "description": "New E Ticket Template功能",
+      "filename": "0013_Home_E Ticket Templates - New E Ticket Template.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETicketTemplates",
+      "title": "票务-电子/纸制票-纸制票模板-亿思维智慧门店"
+    },
+    {
+      "index": 14,
+      "module": "Home",
+      "function": "Gates",
+      "description": "Home - Gates",
+      "filename": "0014_Home_Gates.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 15,
+      "module": "Home",
+      "function": "Menu:FaceImages",
+      "description": "Home - Menu:FaceImages",
+      "filename": "0015_Home_Menu_FaceImages.png",
+      "url": "https://xstest.axioxio.com/OrderModule/FaceImages",
+      "title": "票务-闸机-人脸库-亿思维智慧门店"
+    },
+    {
+      "index": 16,
+      "module": "Home",
+      "function": "Gate Versions",
+      "description": "Home - Gate Versions",
+      "filename": "0016_Home_Gate Versions.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateVersions",
+      "title": "票务-闸机-软件版本-亿思维智慧门店"
+    },
+    {
+      "index": 17,
+      "module": "Home",
+      "function": "Gate Versions - New Gate Version",
+      "description": "New Gate Version功能",
+      "filename": "0017_Home_Gate Versions - New Gate Version.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateVersions",
+      "title": "票务-闸机-软件版本-亿思维智慧门店"
+    },
+    {
+      "index": 18,
+      "module": "Home",
+      "function": "Gate Cards",
+      "description": "Home - Gate Cards",
+      "filename": "0018_Home_Gate Cards.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateCards",
+      "title": "票务-闸机-卡片管理-亿思维智慧门店"
+    },
+    {
+      "index": 19,
+      "module": "Home",
+      "function": "Gate Cards - New Gate Card",
+      "description": "New Gate Card功能",
+      "filename": "0019_Home_Gate Cards - New Gate Card.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateCards",
+      "title": "票务-闸机-卡片管理-亿思维智慧门店"
+    },
+    {
+      "index": 20,
+      "module": "Home",
+      "function": "Gate Logs",
+      "description": "Home - Gate Logs",
+      "filename": "0020_Home_Gate Logs.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateLogs",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 21,
+      "module": "Home",
+      "function": "Gate Limits",
+      "description": "Home - Gate Limits",
+      "filename": "0021_Home_Gate Limits.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateLimits",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 22,
+      "module": "Home",
+      "function": "Products",
+      "description": "Home - Products",
+      "filename": "0022_Home_Products.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 23,
+      "module": "Home",
+      "function": "Categories",
+      "description": "Home - Categories",
+      "filename": "0023_Home_Categories.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Categories/IndexTicket",
+      "title": "票务-产品-产品分类-亿思维智慧门店"
+    },
+    {
+      "index": 24,
+      "module": "Home",
+      "function": "Categories - 新增",
+      "description": "新增功能",
+      "filename": "0024_Home_Categories - 新增.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Categories/IndexTicket",
+      "title": "票务-产品-产品分类-亿思维智慧门店"
+    },
+    {
+      "index": 25,
+      "module": "Home",
+      "function": "Menu:Work",
+      "description": "Home - Menu:Work",
+      "filename": "0025_Home_Menu_Work.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 26,
+      "module": "Home",
+      "function": "Menu:BatchCoach",
+      "description": "Home - Menu:BatchCoach",
+      "filename": "0026_Home_Menu_BatchCoach.png",
+      "url": "https://xstest.axioxio.com/Train/CheckOut/Batch",
+      "title": "预约-工作台-收银-亿思维智慧门店"
+    },
+    {
+      "index": 27,
+      "module": "13811458301",
+      "function": "Menu:TicketCheckOut",
+      "description": "13811458301 - Menu:TicketCheckOut",
+      "filename": "0027_13811458301_Menu_TicketCheckOut.png",
+      "url": "https://xstest.axioxio.com/#",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 28,
+      "module": "13811458301",
+      "function": "Gates",
+      "description": "13811458301 - Gates",
+      "filename": "0028_13811458301_Gates.png",
+      "url": "https://xstest.axioxio.com/#",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 29,
+      "module": "13811458301",
+      "function": "Products",
+      "description": "13811458301 - Products",
+      "filename": "0029_13811458301_Products.png",
+      "url": "https://xstest.axioxio.com/#",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 30,
+      "module": "13811458301",
+      "function": "Menu:Work",
+      "description": "13811458301 - Menu:Work",
+      "filename": "0030_13811458301_Menu_Work.png",
+      "url": "https://xstest.axioxio.com/#",
+      "title": "亿思维智慧门店"
+    }
+  ]
+}
