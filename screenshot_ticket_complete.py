@@ -58,8 +58,22 @@ class TicketSystemCompleteScreenshotter:
         time.sleep(5)
         
         try:
+            # 切换到简体中文
+            print("  → 切换到简体中文...")
+            try:
+                lang_button = self.driver.find_element(By.XPATH, "//button[contains(@class, 'dropdown-toggle')]")
+                lang_button.click()
+                time.sleep(2)
+                
+                chinese_link = self.driver.find_element(By.XPATH, "//a[contains(text(), '简体中文')]")
+                chinese_link.click()
+                time.sleep(3)
+                print("  ✓ 已切换到简体中文")
+            except Exception as e:
+                print(f"  ⚠ 语言切换失败（可能已是中文）: {str(e)}")
+            
             # 登录页截图
-            self.save_screenshot("系统登录", "登录页面", "票务系统登录界面")
+            self.save_screenshot("系统登录", "登录页面（简体中文）", "票务系统登录界面")
             
             username_input = self.driver.find_element(By.NAME, "LoginInput.UserNameOrEmailAddress")
             password_input = self.driver.find_element(By.NAME, "LoginInput.Password")
@@ -70,18 +84,18 @@ class TicketSystemCompleteScreenshotter:
             password_input.send_keys(self.password)
             password_input.send_keys(Keys.RETURN)
             
-            print("✓ 已提交登录")
+            print("  ✓ 已提交登录")
             
             # 等待登录完成
             for i in range(15):
                 time.sleep(1)
                 current_url = self.driver.current_url
                 if 'login' not in current_url.lower():
-                    print(f"✓ 登录成功！")
+                    print(f"  ✓ 登录成功！")
                     break
             
             time.sleep(3)
-            self.save_screenshot("系统主页", "Dashboard", "登录后主页")
+            self.save_screenshot("系统主页", "主页Dashboard", "登录后主页")
             
             return True
         except Exception as e:
