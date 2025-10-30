@@ -194,192 +194,192 @@ Stacktrace:
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '电子券列表')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.9] 子菜单: 初始化
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '初始化')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.10] 子菜单: 纸制票模板
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '纸制票模板')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.11] 子菜单: 闸机
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '闸机')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.12] 子菜单: 人脸库
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '人脸库')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.13] 子菜单: 软件版本
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '软件版本')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.14] 子菜单: 卡片管理
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '卡片管理')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.15] 子菜单: 通行记录
   ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '通行记录')]"}
   (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x55caf6137aea <unknown>
-#1 0x55caf5b83cdb <unknown>
-#2 0x55caf5bd66c4 <unknown>
-#3 0x55caf5bd6901 <unknown>
-#4 0x55caf5c258b4 <unknown>
-#5 0x55caf5c22c87 <unknown>
-#6 0x55caf5bc8aca <unknown>
-#7 0x55caf5bc97d1 <unknown>
-#8 0x55caf60feab9 <unknown>
-#9 0x55caf6101a8c <unknown>
-#10 0x55caf60e7d49 <unknown>
-#11 0x55caf6102685 <unknown>
-#12 0x55caf60cf6c3 <unknown>
-#13 0x55caf61247d8 <unknown>
-#14 0x55caf61249b3 <unknown>
-#15 0x55caf6136a83 <unknown>
-#16 0x7f0c805e5aa4 <unknown>
-#17 0x7f0c80672c6c <unknown>
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
 
 
   [1.16] 子菜单: 通行规则

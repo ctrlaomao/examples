@@ -1,0 +1,304 @@
+{
+  "total": 25,
+  "language": "简体中文",
+  "function_modules": {
+    "票务管理": {
+      "description": "实现对雪票电子或纸质的全面管理",
+      "menu_keywords": [
+        "票务",
+        "电子券",
+        "纸制票",
+        "票务管理",
+        "初始化",
+        "模板"
+      ],
+      "subpages": []
+    },
+    "订单管理": {
+      "description": "对各类雪票、教务订单、租赁订单进行管理",
+      "menu_keywords": [
+        "订单",
+        "Orders"
+      ],
+      "subpages": []
+    },
+    "工作台": {
+      "description": "实现对现场售票及教练预约的下单管理",
+      "menu_keywords": [
+        "工作台",
+        "收银",
+        "发卡",
+        "还卡",
+        "团队下单"
+      ],
+      "subpages": []
+    },
+    "通行管理": {
+      "description": "通过闸机的管控实现对进出雪场的人员进行管理；通行方式可以是人脸或雪票二维码",
+      "menu_keywords": [
+        "闸机",
+        "人脸库",
+        "通行记录",
+        "通行规则",
+        "卡片管理"
+      ],
+      "subpages": []
+    },
+    "控制面板": {
+      "description": "包括对雪票产品设置，电子/纸质票设置、闸机配置、售票小程序、教练、分销商、节假日、租赁物等运营参数的管理",
+      "menu_keywords": [
+        "产品",
+        "产品管理",
+        "产品分类",
+        "小程序",
+        "分销商",
+        "租赁"
+      ],
+      "subpages": []
+    },
+    "报表管理": {
+      "description": "提供各类运营报表，包括票务核销报表、教学核销报表、教学数据看板等",
+      "menu_keywords": [
+        "报表",
+        "Reports"
+      ],
+      "subpages": []
+    },
+    "系统管理": {
+      "description": "系统基础功能的设置，包括文件，身份标识，日志及相关系统参数的设置",
+      "menu_keywords": [
+        "管理",
+        "系统",
+        "Administration"
+      ],
+      "subpages": []
+    }
+  },
+  "screenshots": [
+    {
+      "index": 1,
+      "module": "系统登录",
+      "function": "登录页面",
+      "description": "票务系统登录界面（中文）",
+      "filename": "0001_系统登录_登录页面.png",
+      "url": "https://xstest.axioxio.com/Account/Login?ReturnUrl=%2F",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 2,
+      "module": "系统主页",
+      "function": "首页Dashboard",
+      "description": "登录后主页",
+      "filename": "0002_系统主页_首页Dashboard.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 3,
+      "module": "票务管理",
+      "function": "票务管理",
+      "description": "票务管理 - 票务管理",
+      "filename": "0003_票务管理_票务管理.png",
+      "url": "https://xstest.axioxio.com/OrderModule/OrderTickets",
+      "title": "票务-票务管理-亿思维智慧门店"
+    },
+    {
+      "index": 4,
+      "module": "票务管理",
+      "function": "电子券列表",
+      "description": "票务管理 - 电子券列表",
+      "filename": "0004_票务管理_电子券列表.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETicketItems",
+      "title": "票务-电子/纸制票-电子券列表-亿思维智慧门店"
+    },
+    {
+      "index": 5,
+      "module": "票务管理",
+      "function": "初始化",
+      "description": "票务管理 - 初始化",
+      "filename": "0005_票务管理_初始化.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETickets",
+      "title": "票务-电子/纸制票-初始化-亿思维智慧门店"
+    },
+    {
+      "index": 6,
+      "module": "票务管理",
+      "function": "初始化 - 新增",
+      "description": "初始化的新增功能",
+      "filename": "0006_票务管理_初始化 - 新增.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETickets",
+      "title": "票务-电子/纸制票-初始化-亿思维智慧门店"
+    },
+    {
+      "index": 7,
+      "module": "票务管理",
+      "function": "纸制票模板",
+      "description": "票务管理 - 纸制票模板",
+      "filename": "0007_票务管理_纸制票模板.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETicketTemplates",
+      "title": "票务-电子/纸制票-纸制票模板-亿思维智慧门店"
+    },
+    {
+      "index": 8,
+      "module": "票务管理",
+      "function": "纸制票模板 - 新增",
+      "description": "纸制票模板的新增功能",
+      "filename": "0008_票务管理_纸制票模板 - 新增.png",
+      "url": "https://xstest.axioxio.com/ProductModule/ETicketTemplates",
+      "title": "票务-电子/纸制票-纸制票模板-亿思维智慧门店"
+    },
+    {
+      "index": 9,
+      "module": "订单管理",
+      "function": "订单",
+      "description": "订单管理 - 订单",
+      "filename": "0009_订单管理_订单.png",
+      "url": "https://xstest.axioxio.com/OrderModule/Orders",
+      "title": "票务-订单-亿思维智慧门店"
+    },
+    {
+      "index": 10,
+      "module": "工作台",
+      "function": "收银",
+      "description": "工作台 - 收银",
+      "filename": "0010_工作台_收银.png",
+      "url": "https://xstest.axioxio.com/OrderModule/CheckOut",
+      "title": "票务-工作台-收银-亿思维智慧门店"
+    },
+    {
+      "index": 11,
+      "module": "工作台",
+      "function": "发卡",
+      "description": "工作台 - 发卡",
+      "filename": "0011_工作台_发卡.png",
+      "url": "https://xstest.axioxio.com/OrderModule/CheckOut/BindCard",
+      "title": "票务-工作台-发卡-亿思维智慧门店"
+    },
+    {
+      "index": 12,
+      "module": "工作台",
+      "function": "还卡",
+      "description": "工作台 - 还卡",
+      "filename": "0012_工作台_还卡.png",
+      "url": "https://xstest.axioxio.com/OrderModule/CheckOut/Return",
+      "title": "票务-工作台-还卡-亿思维智慧门店"
+    },
+    {
+      "index": 13,
+      "module": "工作台",
+      "function": "团队下单",
+      "description": "工作台 - 团队下单",
+      "filename": "0013_工作台_团队下单.png",
+      "url": "https://xstest.axioxio.com/Train/CheckOut/Batch",
+      "title": "预约-工作台-收银-亿思维智慧门店"
+    },
+    {
+      "index": 14,
+      "module": "通行管理",
+      "function": "人脸库",
+      "description": "通行管理 - 人脸库",
+      "filename": "0014_通行管理_人脸库.png",
+      "url": "https://xstest.axioxio.com/OrderModule/FaceImages",
+      "title": "票务-闸机-人脸库-亿思维智慧门店"
+    },
+    {
+      "index": 15,
+      "module": "通行管理",
+      "function": "闸机",
+      "description": "通行管理 - 闸机",
+      "filename": "0015_通行管理_闸机.png",
+      "url": "https://xstest.axioxio.com/OrderModule/Gates",
+      "title": "票务-闸机-闸机-亿思维智慧门店"
+    },
+    {
+      "index": 16,
+      "module": "通行管理",
+      "function": "闸机 - 新增",
+      "description": "闸机的新增功能",
+      "filename": "0016_通行管理_闸机 - 新增.png",
+      "url": "https://xstest.axioxio.com/OrderModule/Gates",
+      "title": "票务-闸机-闸机-亿思维智慧门店"
+    },
+    {
+      "index": 17,
+      "module": "通行管理",
+      "function": "卡片管理",
+      "description": "通行管理 - 卡片管理",
+      "filename": "0017_通行管理_卡片管理.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateCards",
+      "title": "票务-闸机-卡片管理-亿思维智慧门店"
+    },
+    {
+      "index": 18,
+      "module": "通行管理",
+      "function": "卡片管理 - 新增",
+      "description": "卡片管理的新增功能",
+      "filename": "0018_通行管理_卡片管理 - 新增.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateCards",
+      "title": "票务-闸机-卡片管理-亿思维智慧门店"
+    },
+    {
+      "index": 19,
+      "module": "通行管理",
+      "function": "通行记录",
+      "description": "通行管理 - 通行记录",
+      "filename": "0019_通行管理_通行记录.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateLogs",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 20,
+      "module": "通行管理",
+      "function": "通行规则",
+      "description": "通行管理 - 通行规则",
+      "filename": "0020_通行管理_通行规则.png",
+      "url": "https://xstest.axioxio.com/OrderModule/GateLimits",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 21,
+      "module": "控制面板",
+      "function": "产品管理",
+      "description": "控制面板 - 产品管理",
+      "filename": "0021_控制面板_产品管理.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Products/IndexTicket",
+      "title": "票务-产品-产品管理-亿思维智慧门店"
+    },
+    {
+      "index": 22,
+      "module": "控制面板",
+      "function": "产品管理 - 新增产品",
+      "description": "产品管理的新增产品功能",
+      "filename": "0022_控制面板_产品管理 - 新增产品.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Products/IndexTicket",
+      "title": "票务-产品-产品管理-亿思维智慧门店"
+    },
+    {
+      "index": 23,
+      "module": "控制面板",
+      "function": "产品管理 - 核销规则配置",
+      "description": "产品管理的核销规则配置功能",
+      "filename": "0023_控制面板_产品管理 - 核销规则配置.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Products/IndexTicket",
+      "title": "票务-产品-产品管理-亿思维智慧门店"
+    },
+    {
+      "index": 24,
+      "module": "控制面板",
+      "function": "产品分类",
+      "description": "控制面板 - 产品分类",
+      "filename": "0024_控制面板_产品分类.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Categories/IndexTicket",
+      "title": "票务-产品-产品分类-亿思维智慧门店"
+    },
+    {
+      "index": 25,
+      "module": "控制面板",
+      "function": "产品分类 - 新增",
+      "description": "产品分类的新增功能",
+      "filename": "0025_控制面板_产品分类 - 新增.png",
+      "url": "https://xstest.axioxio.com/ProductModule/Categories/IndexTicket",
+      "title": "票务-产品-产品分类-亿思维智慧门店"
+    }
+  ]
+}
