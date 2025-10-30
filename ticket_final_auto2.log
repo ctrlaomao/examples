@@ -1,0 +1,193 @@
+================================================================================
+票务系统完整截图工具（自动识别菜单）
+================================================================================
+
+正在登录票务系统...
+  → 切换到简体中文...
+  ✓ 已切换到简体中文
+  [0001] ✓ 系统登录 - 登录页面
+✓ 已提交登录
+✓ 登录成功！
+  [0002] ✓ 系统主页 - 首页Dashboard
+
+================================================================================
+开始全面遍历票务系统（自动识别菜单）...
+================================================================================
+
+✓ 发现 3 个一级菜单
+
+
+================================================================================
+[1/3] 一级菜单: 首页
+================================================================================
+  → 发现 20 个子菜单
+
+  [1.1] 子菜单: 工作台
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '工作台')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.2] 子菜单: 收银
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '收银')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.3] 子菜单: 发卡
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '发卡')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.4] 子菜单: 还卡
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '还卡')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.5] 子菜单: 订单
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '订单')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.6] 子菜单: 票务管理
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '票务管理')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.7] 子菜单: 电子/纸制票
+  ✗ 处理子菜单出错: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[contains(@class, 'lpx-inner-menu')]//a[contains(text(), '电子/纸制票')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55fb3d721aea <unknown>
+#1 0x55fb3d16dcdb <unknown>
+#2 0x55fb3d1c06c4 <unknown>
+#3 0x55fb3d1c0901 <unknown>
+#4 0x55fb3d20f8b4 <unknown>
+#5 0x55fb3d20cc87 <unknown>
+#6 0x55fb3d1b2aca <unknown>
+#7 0x55fb3d1b37d1 <unknown>
+#8 0x55fb3d6e8ab9 <unknown>
+#9 0x55fb3d6eba8c <unknown>
+#10 0x55fb3d6d1d49 <unknown>
+#11 0x55fb3d6ec685 <unknown>
+#12 0x55fb3d6b96c3 <unknown>
+#13 0x55fb3d70e7d8 <unknown>
+#14 0x55fb3d70e9b3 <unknown>
+#15 0x55fb3d720a83 <unknown>
+#16 0x7fd8a5815aa4 <unknown>
+#17 0x7fd8a58a2c6c <unknown>
+
+
+  [1.8] 子菜单: 电子券列表
