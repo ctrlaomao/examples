@@ -1,0 +1,79 @@
+{
+  "system": "票务系统",
+  "url": "https://xstest.axioxio.com/",
+  "total": 8,
+  "screenshots": [
+    {
+      "index": 1,
+      "module": "系统登录",
+      "function": "登录页面",
+      "description": "票务系统登录界面",
+      "filename": "0001_系统登录_登录页面.png",
+      "url": "https://xstest.axioxio.com/Account/Login?ReturnUrl=%2F",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 2,
+      "module": "系统主页",
+      "function": "主页Dashboard",
+      "description": "登录后主页",
+      "filename": "0002_系统主页_主页Dashboard.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 3,
+      "module": "Menu:Ticket",
+      "function": "Menu:Ticket",
+      "description": "Menu:Ticket页面",
+      "filename": "0003_Menu_Ticket_Menu_Ticket.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 4,
+      "module": "Menu:Booking",
+      "function": "Menu:Booking",
+      "description": "Menu:Booking页面",
+      "filename": "0004_Menu_Booking_Menu_Booking.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 5,
+      "module": "Menu:LeasesMian",
+      "function": "Menu:LeasesMian",
+      "description": "Menu:LeasesMian页面",
+      "filename": "0005_Menu_LeasesMian_Menu_LeasesMian.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 6,
+      "module": "Distributors",
+      "function": "Distributors",
+      "description": "Distributors页面",
+      "filename": "0006_Distributors_Distributors.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 7,
+      "module": "Menu:MiniprogramSetting",
+      "function": "Menu:MiniprogramSetting",
+      "description": "Menu:MiniprogramSetting页面",
+      "filename": "0007_Menu_MiniprogramSetting_Menu_MiniprogramSetting.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 8,
+      "module": "13811458301",
+      "function": "13811458301",
+      "description": "13811458301页面",
+      "filename": "0008_13811458301_13811458301.png",
+      "url": "https://xstest.axioxio.com/#",
+      "title": "亿思维智慧门店"
+    }
+  ]
+}

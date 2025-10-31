@@ -1,0 +1,108 @@
+{
+  "首页": {
+    "href": "https://xstest.axioxio.com/",
+    "submenus": []
+  },
+  "票务": {
+    "href": null,
+    "submenus": [
+      {
+        "text": "工作台",
+        "href": null
+      },
+      {
+        "text": "收银",
+        "href": "https://xstest.axioxio.com/OrderModule/CheckOut"
+      },
+      {
+        "text": "发卡",
+        "href": "https://xstest.axioxio.com/OrderModule/CheckOut/BindCard"
+      },
+      {
+        "text": "还卡",
+        "href": "https://xstest.axioxio.com/OrderModule/CheckOut/Return"
+      },
+      {
+        "text": "订单",
+        "href": "https://xstest.axioxio.com/OrderModule/Orders"
+      },
+      {
+        "text": "票务管理",
+        "href": "https://xstest.axioxio.com/OrderModule/OrderTickets"
+      },
+      {
+        "text": "电子/纸制票",
+        "href": null
+      },
+      {
+        "text": "电子券列表",
+        "href": "https://xstest.axioxio.com/ProductModule/ETicketItems"
+      },
+      {
+        "text": "初始化",
+        "href": "https://xstest.axioxio.com/ProductModule/ETickets"
+      },
+      {
+        "text": "纸制票模板",
+        "href": "https://xstest.axioxio.com/ProductModule/ETicketTemplates"
+      },
+      {
+        "text": "闸机",
+        "href": null
+      },
+      {
+        "text": "人脸库",
+        "href": "https://xstest.axioxio.com/OrderModule/FaceImages"
+      },
+      {
+        "text": "闸机",
+        "href": "https://xstest.axioxio.com/OrderModule/Gates"
+      },
+      {
+        "text": "软件版本",
+        "href": "https://xstest.axioxio.com/OrderModule/GateVersions"
+      },
+      {
+        "text": "卡片管理",
+        "href": "https://xstest.axioxio.com/OrderModule/GateCards"
+      },
+      {
+        "text": "通行记录",
+        "href": "https://xstest.axioxio.com/OrderModule/GateLogs"
+      },
+      {
+        "text": "通行规则",
+        "href": "https://xstest.axioxio.com/OrderModule/GateLimits"
+      },
+      {
+        "text": "产品",
+        "href": null
+      },
+      {
+        "text": "产品管理",
+        "href": "https://xstest.axioxio.com/ProductModule/Products/IndexTicket"
+      },
+      {
+        "text": "产品分类",
+        "href": "https://xstest.axioxio.com/ProductModule/Categories/IndexTicket"
+      }
+    ]
+  },
+  "预约": {
+    "href": null,
+    "submenus": [
+      {
+        "text": "工作台",
+        "href": null
+      },
+      {
+        "text": "团队下单",
+        "href": "https://xstest.axioxio.com/Train/CheckOut/Batch"
+      }
+    ]
+  },
+  "13811458301": {
+    "href": "https://xstest.axioxio.com/#",
+    "submenus": []
+  }
+}

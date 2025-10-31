@@ -1,0 +1,372 @@
+================================================================================
+票务系统完整截图工具（包含子菜单）
+================================================================================
+
+正在登录票务系统...
+  [0001] ✓ 系统登录 - 登录页面
+✓ 已提交登录
+✓ 登录成功！
+  [0002] ✓ 系统主页 - Dashboard
+
+================================================================================
+开始全面遍历票务系统（包含子菜单）...
+================================================================================
+
+✓ 发现 10 个一级菜单
+
+
+================================================================================
+[1/10] 一级菜单: Home
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 无子菜单，直接截图
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+
+================================================================================
+[2/10] 一级菜单: Menu:Ticket
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 6 个子菜单
+
+  [2.1] 子菜单: Menu:TicketCheckOut
+      调试: 找到 175 个子菜单链接
+  [0003] ✓ Menu:Ticket - Menu:TicketCheckOut
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [2.2] 子菜单: Menu:Orders
+      调试: 找到 175 个子菜单链接
+  [0004] ✓ Menu:Ticket - Menu:Orders
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [2.3] 子菜单: Menu:OrderTickets
+      调试: 找到 175 个子菜单链接
+  [0005] ✓ Menu:Ticket - Menu:OrderTickets
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 导出Excel
+
+  [2.4] 子菜单: E Tickets
+      调试: 找到 175 个子菜单链接
+  [0006] ✓ Menu:Ticket - E Tickets
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [2.5] 子菜单: Gates
+      调试: 找到 175 个子菜单链接
+  [0007] ✓ Menu:Ticket - Gates
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [2.6] 子菜单: Products
+      调试: 找到 175 个子菜单链接
+  [0008] ✓ Menu:Ticket - Products
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+
+================================================================================
+[3/10] 一级菜单: Menu:Booking
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 5 个子菜单
+
+  [3.1] 子菜单: Menu:Work
+      调试: 找到 175 个子菜单链接
+  [0009] ✓ Menu:Booking - Menu:Work
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [3.2] 子菜单: Menu:TrainOrders
+      调试: 找到 175 个子菜单链接
+  [0010] ✓ Menu:Booking - Menu:TrainOrders
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [3.3] 子菜单: Coaches
+      调试: 找到 175 个子菜单链接
+  [0011] ✓ Menu:Booking - Coaches
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [3.4] 子菜单: Training Managements
+      调试: 找到 175 个子菜单链接
+  [0012] ✓ Menu:Booking - Training Managements
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: 新增
+  [0013] ✓ Menu:Booking - Training Managements - 新增
+        [2] 点击: 搜索
+
+  [3.5] 子菜单: Products
+      调试: 找到 175 个子菜单链接
+  [0014] ✓ Menu:Booking - Products
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+
+================================================================================
+[4/10] 一级菜单: Menu:LeasesMian
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 3 个子菜单
+
+  [4.1] 子菜单: Menu:Work
+      调试: 找到 175 个子菜单链接
+  [0015] ✓ Menu:LeasesMian - Menu:Work
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [4.2] 子菜单: Menu:Leases
+      调试: 找到 175 个子菜单链接
+  [0016] ✓ Menu:LeasesMian - Menu:Leases
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [4.3] 子菜单: Products
+      调试: 找到 175 个子菜单链接
+  [0017] ✓ Menu:LeasesMian - Products
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+
+================================================================================
+[5/10] 一级菜单: Distributors
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 3 个子菜单
+
+  [5.1] 子菜单: Distributors
+      调试: 找到 175 个子菜单链接
+  [0018] ✓ Distributors - Distributors
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 新增
+  [0019] ✓ Distributors - Distributors - 新增
+
+  [5.2] 子菜单: Distributor Tickets
+      调试: 找到 175 个子菜单链接
+  [0020] ✓ Distributors - Distributor Tickets
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: 新增
+  [0021] ✓ Distributors - Distributor Tickets - 新增
+        [2] 点击: 搜索
+  [0022] ✓ Distributors - Distributor Tickets - 搜索
+
+  [5.3] 子菜单: Distributorlevels
+      调试: 找到 175 个子菜单链接
+  [0023] ✓ Distributors - Distributorlevels
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: New Distributorlevel
+  [0024] ✓ Distributors - Distributorlevels - New Distributorlevel
+        [2] 点击: 搜索
+
+
+================================================================================
+[6/10] 一级菜单: Menu:MiniprogramSetting
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 4 个子菜单
+
+  [6.1] 子菜单: Index Design
+      调试: 找到 175 个子菜单链接
+  [0025] ✓ Menu:MiniprogramSetting - Index Design
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [6.2] 子菜单: 限流管理
+      调试: 找到 175 个子菜单链接
+  [0026] ✓ Menu:MiniprogramSetting - 限流管理
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [6.3] 子菜单: Service Categories
+      调试: 找到 175 个子菜单链接
+  [0027] ✓ Menu:MiniprogramSetting - Service Categories
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: New Service Category
+  [0028] ✓ Menu:MiniprogramSetting - Service Categories - New Service Category
+        [2] 点击: New Service Item
+  [0029] ✓ Menu:MiniprogramSetting - Service Categories - New Service Item
+
+  [6.4] 子菜单: Notify Templates
+      调试: 找到 175 个子菜单链接
+  [0030] ✓ Menu:MiniprogramSetting - Notify Templates
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: New Notify Template
+  [0031] ✓ Menu:MiniprogramSetting - Notify Templates - New Notify Template
+        [2] 点击: 搜索
+
+
+================================================================================
+[7/10] 一级菜单: Menu:ReceiversInit
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 3 个子菜单
+
+  [7.1] 子菜单: Menu:OrderProfitSharingsRage
+      调试: 找到 175 个子菜单链接
+  [0032] ✓ Menu:ReceiversInit - Menu:OrderProfitSharingsRage
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 搜索
+
+  [7.2] 子菜单: Order Profit Sharings
+      调试: 找到 175 个子菜单链接
+  [0033] ✓ Menu:ReceiversInit - Order Profit Sharings
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [7.3] 子菜单: Order Receivers
+      调试: 找到 175 个子菜单链接
+  [0034] ✓ Menu:ReceiversInit - Order Receivers
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: New Order Receiver
+  [0035] ✓ Menu:ReceiversInit - Order Receivers - New Order Receiver
+        [2] 点击: 搜索
+
+
+================================================================================
+[8/10] 一级菜单: Menu:Reports
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 6 个子菜单
+
+  [8.1] 子菜单: Menu:WriteOffItemsTicket
+      调试: 找到 175 个子菜单链接
+  [0036] ✓ Menu:Reports - Menu:WriteOffItemsTicket
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 搜索
+
+  [8.2] 子菜单: Menu:TranWriteOffReport
+      调试: 找到 175 个子菜单链接
+  [0037] ✓ Menu:Reports - Menu:TranWriteOffReport
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 搜索
+
+  [8.3] 子菜单: Menu:TranAnalysis
+      调试: 找到 175 个子菜单链接
+  [0038] ✓ Menu:Reports - Menu:TranAnalysis
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [8.4] 子菜单: Menu:TranReportItems
+      调试: 找到 175 个子菜单链接
+  [0039] ✓ Menu:Reports - Menu:TranReportItems
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: 导入
+  [0040] ✓ Menu:Reports - Menu:TranReportItems - 导入
+        [2] 点击: New Report Item
+  [0041] ✓ Menu:Reports - Menu:TranReportItems - New Report Item
+
+  [8.5] 子菜单: Menu:LeaseWriteOffs
+      调试: 找到 175 个子菜单链接
+  [0042] ✓ Menu:Reports - Menu:LeaseWriteOffs
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 搜索
+
+  [8.6] 子菜单: Menu:LeaseReport
+      调试: 找到 175 个子菜单链接
+  [0043] ✓ Menu:Reports - Menu:LeaseReport
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: 搜索
+
+
+================================================================================
+[9/10] 一级菜单: Administration
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 发现 7 个子菜单
+
+  [9.1] 子菜单: File Management
+      调试: 找到 175 个子菜单链接
+  [0044] ✓ Administration - File Management
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: Create Folder
+  [0045] ✓ Administration - File Management - Create Folder
+
+  [9.2] 子菜单: Identity management
+      调试: 找到 175 个子菜单链接
+  [0046] ✓ Administration - Identity management
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+  [9.3] 子菜单: Text templates
+      调试: 找到 175 个子菜单链接
+  [0047] ✓ Administration - Text templates
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: Edit contents
+  [0048] ✓ Administration - Text templates - Edit contents
+
+  [9.4] 子菜单: Audit logs
+      调试: 找到 175 个子菜单链接
+  [0049] ✓ Administration - Audit logs
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: Search
+
+  [9.5] 子菜单: Settings
+      调试: 找到 175 个子菜单链接
+  [0050] ✓ Administration - Settings
+    → 探索页面功能...
+      发现重要按钮: 1 个
+        [1] 点击: Save
+
+  [9.6] 子菜单: Holiday Groups
+      调试: 找到 175 个子菜单链接
+  [0051] ✓ Administration - Holiday Groups
+    → 探索页面功能...
+      发现重要按钮: 2 个
+        [1] 点击: New Holiday Group
+  [0052] ✓ Administration - Holiday Groups - New Holiday Group
+        [2] 点击: 添加节假日日期
+  [0053] ✓ Administration - Holiday Groups - 添加节假日日期
+
+  [9.7] 子菜单: Store
+      调试: 找到 175 个子菜单链接
+  [0054] ✓ Administration - Store
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+
+================================================================================
+[10/10] 一级菜单: 13811458301
+================================================================================
+      调试: 找到 175 个子菜单链接
+  → 无子菜单，直接截图
+  [0055] ✓ 13811458301 - 13811458301页面
+    → 探索页面功能...
+      发现重要按钮: 0 个
+
+================================================================================
+✓ 遍历完成！共截图 55 个功能点
+================================================================================
+
+正在生成Word文档...
+✓ Word文档: /workspace/票务系统完整功能截图文档.docx (2.80 MB)
+
+正在打包...
+
+================================================================================
+✅ 完成！
+📊 截图总数: 55 张
+📄 Word文档: /workspace/票务系统完整功能截图文档.docx
+📦 压缩包: /workspace/票务系统完整功能截图包.zip
+================================================================================
+
+浏览器已关闭

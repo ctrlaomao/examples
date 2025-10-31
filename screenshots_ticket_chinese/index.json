@@ -1,0 +1,24 @@
+{
+  "total": 2,
+  "language": "简体中文",
+  "screenshots": [
+    {
+      "index": 1,
+      "module": "系统登录",
+      "function": "登录页面",
+      "description": "票务系统登录界面（中文）",
+      "filename": "0001_系统登录_登录页面.png",
+      "url": "https://xstest.axioxio.com/Account/Login?ReturnUrl=%2F",
+      "title": "亿思维智慧门店"
+    },
+    {
+      "index": 2,
+      "module": "系统主页",
+      "function": "首页Dashboard",
+      "description": "登录后主页",
+      "filename": "0002_系统主页_首页Dashboard.png",
+      "url": "https://xstest.axioxio.com/",
+      "title": "亿思维智慧门店"
+    }
+  ]
+}

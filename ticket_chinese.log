@@ -1,0 +1,271 @@
+================================================================================
+票务系统完整截图工具（中文版）
+================================================================================
+
+正在登录票务系统...
+  → 切换到简体中文...
+  ✓ 已切换到简体中文
+  [0001] ✓ 系统登录 - 登录页面
+✓ 已提交登录
+✓ 登录成功！
+  [0002] ✓ 系统主页 - 首页Dashboard
+
+================================================================================
+开始全面遍历票务系统（中文版）...
+================================================================================
+
+================================================================================
+一级菜单: 首页
+================================================================================
+✗ 未找到菜单 首页: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '首页')] | //nav//a[contains(text(), '首页')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 票务
+================================================================================
+✗ 未找到菜单 票务: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '票务')] | //nav//a[contains(text(), '票务')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 预约
+================================================================================
+✗ 未找到菜单 预约: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '预约')] | //nav//a[contains(text(), '预约')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 租赁
+================================================================================
+✗ 未找到菜单 租赁: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '租赁')] | //nav//a[contains(text(), '租赁')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 分销商
+================================================================================
+✗ 未找到菜单 分销商: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '分销商')] | //nav//a[contains(text(), '分销商')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 小程序设置
+================================================================================
+✗ 未找到菜单 小程序设置: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '小程序设置')] | //nav//a[contains(text(), '小程序设置')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 销售网点
+================================================================================
+✗ 未找到菜单 销售网点: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '销售网点')] | //nav//a[contains(text(), '销售网点')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 报表
+================================================================================
+✗ 未找到菜单 报表: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '报表')] | //nav//a[contains(text(), '报表')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+一级菜单: 系统管理
+================================================================================
+✗ 未找到菜单 系统管理: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//aside//a[contains(text(), '系统管理')] | //nav//a[contains(text(), '系统管理')]"}
+  (Session info: chrome=142.0.7444.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x55bb2b9afaea <unknown>
+#1 0x55bb2b3fbcdb <unknown>
+#2 0x55bb2b44e6c4 <unknown>
+#3 0x55bb2b44e901 <unknown>
+#4 0x55bb2b49d8b4 <unknown>
+#5 0x55bb2b49ac87 <unknown>
+#6 0x55bb2b440aca <unknown>
+#7 0x55bb2b4417d1 <unknown>
+#8 0x55bb2b976ab9 <unknown>
+#9 0x55bb2b979a8c <unknown>
+#10 0x55bb2b95fd49 <unknown>
+#11 0x55bb2b97a685 <unknown>
+#12 0x55bb2b9476c3 <unknown>
+#13 0x55bb2b99c7d8 <unknown>
+#14 0x55bb2b99c9b3 <unknown>
+#15 0x55bb2b9aea83 <unknown>
+#16 0x7f41ae5c2aa4 <unknown>
+#17 0x7f41ae64fc6c <unknown>
+
+
+================================================================================
+✓ 遍历完成！共截图 2 个功能点
+✓ 处理了 0 个页面
+================================================================================
+
+✓ JSON索引: screenshots_ticket_chinese/index.json
+
+正在生成Word文档...
+✓ Word文档: /workspace/票务系统完整功能截图文档（中文版）.docx (0.19 MB)
+
+正在打包...
+
+================================================================================
+✅ 完成！
+📊 截图总数: 2 张
+🌐 语言版本: 简体中文
+📄 Word文档: /workspace/票务系统完整功能截图文档（中文版）.docx
+📦 压缩包: /workspace/票务系统完整功能截图包（中文版）.zip (0.35 MB)
+================================================================================
+
+浏览器已关闭
